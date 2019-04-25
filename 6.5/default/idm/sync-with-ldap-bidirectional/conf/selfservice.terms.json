@@ -1,0 +1,17 @@
+{
+    "versions" : [
+        {
+            "version" : "1.20",
+            "termsTranslations" : {
+                "en" : "Hello world, yay it worked."
+            },
+            "createDate" : "2019-04-25T14:53:00.242Z"
+        }
+    ],
+    "uiConfig" : {
+        "displayName" : "We have updated our terms",
+        "purpose" : "To proceed, accept these terms",
+        "buttonText" : "Accept"
+    },
+    "active" : "1.20"
+}

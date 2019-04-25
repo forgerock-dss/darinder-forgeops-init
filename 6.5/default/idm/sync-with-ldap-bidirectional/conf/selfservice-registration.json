@@ -20,6 +20,12 @@
             "identityServiceUrl" : "managed/user"
         },
         {
+            "name" : "captcha",
+            "recaptchaSiteKey" : "",
+            "recaptchaSecretKey" : "",
+            "recaptchaUri" : "https://www.google.com/recaptcha/api/siteverify"
+        },
+        {
             "name" : "kbaSecurityAnswerDefinitionStage",
             "kbaConfig" : null
         },
